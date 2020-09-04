@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Pet Shop Test" parllel="tests" thread-count="1">
+    
+    <test name="Pet Shop test execution with browser Chrome ">
+        <classes>
+            <class name ="PetShop.PetShop.page.LoginPage1"/>
+            <class name ="PetShop.PetShop.page.SweggerPage"/>
+        </classes>
+    </test>
+     
+    
+</suite> 
